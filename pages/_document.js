@@ -16,7 +16,7 @@ class MyDocument extends Document {
                     <link 
                         rel="icon" 
                         type="image/png" 
-                        href="/images/favicon.png"
+                        href="https://res.cloudinary.com/dakpe0afe/image/upload/v1720469233/SignOne/vhyi0evbxhd0qpsskuwy.png"
                     ></link>
                 </Head>
                 <body>

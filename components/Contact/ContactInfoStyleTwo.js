@@ -12,7 +12,8 @@ const ContactInfoStyleTwo = () => {
                                     <i className='fas fa-map-marker-alt'></i>
                                 </div>
                                 <h3>Address</h3>
-                                <p><a href="#" target="_blank">246 W Willow St, Syracuse, NY 13202, United States</a></p>
+                                <p><a href="#" target="_blank">Weldarc Works Bradford Lane,
+                                Bradford BD3 8LW, United Kingdom</a></p>
                             </div>
                         </div>
 
@@ -22,8 +23,7 @@ const ContactInfoStyleTwo = () => {
                                     <i className='fas fa-phone-volume'></i>
                                 </div>
                                 <h3>Phone</h3>
-                                <p><a href="tel:+44587154756">Phone: +44 587 154756</a></p>
-                                <p><a href="tel:+55587154756">Fax: +55 587 154756</a></p>
+                                <p><a href="tel:+447544786044">Phone: +44 7544 786 044</a></p>
                             </div>
                         </div>
 
@@ -33,8 +33,7 @@ const ContactInfoStyleTwo = () => {
                                     <i className='far fa-envelope'></i>
                                 </div>
                                 <h3>Email</h3>
-                                <p><a href="mailto:hello@gbay.com">hello@gbay.com</a></p>
-                                <p><a href="mailto:gbay@hello.com">gbay@hello.com</a></p>
+                                <p><a href="mailto:saj@signoneshopfitters.com">saj@signoneshopfitters.com</a></p>
                             </div>
                         </div>
 
@@ -44,8 +43,8 @@ const ContactInfoStyleTwo = () => {
                                     <i className='fas fa-hourglass-half'></i>
                                 </div>
                                 <h3>Working Hours</h3>
-                                <p>Sunday - Friday</p>
-                                <p>8:00AM - 8:00PM</p>
+                                <p>Monday - Friday</p>
+                                <p>9:00AM - 18:00PM</p>
                             </div>
                         </div>
                     </div>

@@ -27,89 +27,52 @@ const Services2 = () => {
                     <div className="row justify-content-center">
                         <div className="col-lg-4 col-md-6 col-sm-6">
                             <div className="single-services-item">
-                                <img src="/images/services/services-img4.jpg" alt="image" />
+                                <img src="https://res.cloudinary.com/dakpe0afe/image/upload/v1720639556/SignOne/s791njgwbhwx1fy5plhc.jpg" alt="image" />
                                 <div className="content">
                                     <h3>
                                         <Link href="/services-details">
-                                            <a>Digital Marketing</a>
+                                            <a>Spray Plastering</a>
                                         </Link>
                                     </h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur elit adipiscing labore et dolore magna aliqua.</p>
+                                    <p>We have over 20 year's experience providing our spray plastering services throughout the whole of the UK.</p>
                                 </div>
                             </div>
                         </div>
 
                         <div className="col-lg-4 col-md-6 col-sm-6">
                             <div className="single-services-item">
-                                <img src="/images/services/services-img5.jpg" alt="image" />
+                                <img src="https://res.cloudinary.com/dakpe0afe/image/upload/v1720639561/SignOne/vbxnzjqjmkposz9qmfug.png" alt="image" />
                                 <div className="content">
                                     <h3>
                                         <Link href="/services-details">
-                                            <a>Strategy & Planning</a>
+                                            <a>Flooring</a>
                                         </Link>
                                     </h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur elit adipiscing labore et dolore magna aliqua.</p>
+                                    <p>We are domestic and commercial flooring contractors based in Leeds offering a selection of floor covering options...</p>
                                 </div>
                             </div>
                         </div>
 
                         <div className="col-lg-4 col-md-6 col-sm-6">
                             <div className="single-services-item">
-                                <img src="/images/services/services-img6.jpg" alt="image" />
+                                <img src="https://res.cloudinary.com/dakpe0afe/image/upload/v1720639558/SignOne/lic2jfjvxum7ptflv7ti.png" alt="image" />
                                 <div className="content">
                                     <h3>
                                         <Link href="/services-details">
-                                            <a>Search Engine Optimization</a>
+                                            <a>Joinery Services</a>
                                         </Link>
                                     </h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur elit adipiscing labore et dolore magna aliqua.</p>
+                                    <p>We are based in Bradford, ﻿ specialising in all aspects of joinery and building, from small domestic to large commercial projects.</p>
                                 </div>
                             </div>
                         </div>
 
-                        <div className="col-lg-4 col-md-6 col-sm-6">
-                            <div className="single-services-item">
-                                <img src="/images/services/services-img1.jpg" alt="image" />
-                                <div className="content">
-                                    <h3>
-                                        <Link href="/services-details">
-                                            <a>Start Up Advisory Solutions</a>
-                                        </Link>
-                                    </h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur elit adipiscing labore et dolore magna aliqua.</p>
-                                </div>
-                            </div>
-                        </div>
+                        
 
-                        <div className="col-lg-4 col-md-6 col-sm-6">
-                            <div className="single-services-item">
-                                <img src="/images/services/services-img2.jpg" alt="image" />
-                                <div className="content">
-                                    <h3>
-                                        <Link href="/services-details">
-                                            <a>Business Incorporation</a>
-                                        </Link>
-                                    </h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur elit adipiscing labore et dolore magna aliqua.</p>
-                                </div>
-                            </div>
-                        </div>
+                  
 
-                        <div className="col-lg-4 col-md-6 col-sm-6">
-                            <div className="single-services-item">
-                                <img src="/images/services/services-img3.jpg" alt="image" />
-                                <div className="content">
-                                    <h3>
-                                        <Link href="/services-details">
-                                            <a>Consulting Services</a>
-                                        </Link>
-                                    </h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur elit adipiscing labore et dolore magna aliqua.</p>
-                                </div>
-                            </div>
-                        </div>
 
-                        <div className="col-lg-12 col-md-12 col-sm-12">
+                        {/* <div className="col-lg-12 col-md-12 col-sm-12">
                             <div className="pagination-area text-center">
                                 <a href="#" className="next page-numbers">
                                     <i className="fas fa-chevron-left"></i>
@@ -122,7 +85,7 @@ const Services2 = () => {
                                     <i className="fas fa-chevron-right"></i>
                                 </a>
                             </div>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </div>

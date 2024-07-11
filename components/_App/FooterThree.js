@@ -14,7 +14,7 @@ const FooterThree = () => {
                             <div className="col-xl-6 col-lg-4 col-md-12">
                                 <Link href="/index-it-agency">
                                     <a className="logo">
-                                        <img src="/images/logo-white.png" alt="image" />
+                                        <img src="https://res.cloudinary.com/dakpe0afe/image/upload/v1720470665/SignOne/dciiexvsoosudsowyyki.png" alt="image" />
                                     </a>
                                 </Link>
                             </div>
@@ -37,9 +37,10 @@ const FooterThree = () => {
                                 <h3>Contact Details</h3>
 
                                 <ul className="footer-contact">
-                                    <li><i className="fas fa-map-marker-alt"></i> 162 5th Ave, New York, NY 1010, United States</li>
-                                    <li><i className="far fa-envelope"></i> <a href="mailto:hello@gbay.com">hello@gbay.com</a></li>
-                                    <li><i className="fas fa-phone-volume"></i> <a href="tel:+44457895789">(+44) - 45789 - 5789</a></li>
+                                    <li><i className="fas fa-map-marker-alt"></i>Weldarc Works
+                                    Bradford Lane, <br />Bradford BD3 8LW,<br /> United Kingdom</li>
+                                    <li><i className="far fa-envelope"></i> <a href="mailto:saj@signoneshopfitters.com">saj@signoneshopfitters.com</a></li>
+                                    <li><i className="fas fa-phone-volume"></i> <a href="tel:+447544 786 044">(+44) - 7544 786 044</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -65,7 +66,7 @@ const FooterThree = () => {
                                         </Link>
                                     </li>
                                     <li>
-                                        <Link href="/contact">
+                                        <Link href="/contact-us">
                                             <a>Contact Us</a>
                                         </Link>
                                     </li>

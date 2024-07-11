@@ -8,7 +8,7 @@ const Layout = ({ children }) => {
             <Head>
                 <meta charSet="utf-8" />
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
-                <title>Gbay - React Next JS Multipurpose Startup Agency Template</title>
+                <title>SignOne Shopfitters Limited</title>
             </Head>
  
             {children}

@@ -9,28 +9,28 @@ const FeaturesCard = () => {
                         <div className="col-lg-3 col-md-3 col-sm-6">
                             <div className="single-features-item color-white startup-color">
                                 <i className="icon flaticon-analytics-1"></i>
-                                <h3>Advanced <br /> Analytics</h3>
+                                <h3>Ongoing <br /> Support</h3>
                             </div>
                         </div>
 
                         <div className="col-lg-3 col-md-3 col-sm-6">
                             <div className="single-features-item color-white startup-color">
                                 <i className="icon flaticon-innovation-1"></i>
-                                <h3>Business <br /> Innovation</h3>
+                                <h3>Automatic <br /> Updates</h3>
                             </div>
                         </div>
 
                         <div className="col-lg-3 col-md-3 col-sm-6">
                             <div className="single-features-item color-white startup-color">
                                 <i className="icon flaticon-growth-1"></i>
-                                <h3>Growth <br /> Consulting</h3>
+                                <h3>Outstanding <br />  Service</h3>
                             </div>
                         </div>
 
                         <div className="col-lg-3 col-md-3 col-sm-6">
                             <div className="single-features-item color-white startup-color">
                                 <i className="icon flaticon-consultation"></i>
-                                <h3>Sales <br /> Consulting</h3>
+                                <h3>Best  <br /> Quality</h3>
                             </div>
                         </div>
                     </div>

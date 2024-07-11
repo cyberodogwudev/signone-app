@@ -22,21 +22,18 @@ const Index = () => {
 
             <FeaturesCard />
 
+        
             <OurStoryContent />
 
-            <OurITServices />
+            <CallToAction /><br/><br/><br/><br/>
 
-            <FunFactsThree />
+            <OurITServices /><br/><br/><br/><br/>
 
-            <TeamStyleThree />
+            <FunFactsThree /><br/><br/><br/><br/>
 
             <TestimonialStyleThree />
 
-            <CallToAction />
-
-            <LatestBlogPostStyleThree />
-
-            <PartnerStyleTwo />
+            <PartnerStyleTwo /> <br/><br/><br/><br/>
             
             <FooterThree />
         </>

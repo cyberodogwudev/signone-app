@@ -78,7 +78,7 @@ const NavbarThree = () => {
                                             </Link> 
                                         </li>
                                         <li className="nav-item">
-                                            <Link href="/contact-2" activeClassName="active">
+                                            <Link href="/contact-us" activeClassName="active">
                                             <a onClick={toggleNavbar} className="nav-link">Contact Us</a>
                                             </Link>
                                         </li>

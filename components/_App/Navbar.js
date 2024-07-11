@@ -36,7 +36,7 @@ const Navbar = () => {
                         <nav className="navbar navbar-expand-md navbar-light">
                             <Link href="/">
                                 <a onClick={toggleNavbar} className="navbar-brand">
-                                    <img src="/images/logo-black.png" alt="logo" />
+                                    <img src="https://res.cloudinary.com/dakpe0afe/image/upload/v1720470665/SignOne/dciiexvsoosudsowyyki.png" alt="logo" />
                                 </a>
                             </Link>
 
@@ -80,7 +80,7 @@ const Navbar = () => {
                                             </Link> 
                                         </li>
                                         <li className="nav-item">
-                                            <Link href="/contact-2" activeClassName="active">
+                                            <Link href="/contact-us" activeClassName="active">
                                             <a onClick={toggleNavbar} className="nav-link">Contact Us</a>
                                             </Link>
                                         </li>

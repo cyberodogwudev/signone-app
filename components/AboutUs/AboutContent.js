@@ -24,22 +24,34 @@ const AboutContent = () => {
 
                         <div className="col-lg-6 col-md-12">
                             <div className="it-agency-about-content">
-                                <h2>We Have Helped Many Different Companies</h2>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                                <p>Maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.</p>
+                                <p>We draw on a wealth of experience to provide a full and comprehensive project service. 
+                                Having all these operations in house means our service to our clients is both time efficient,
+                                uncomplicated and competitive in price; 
+                                without the need to compromise with materials or craftsmanship.</p>
+                                <p>We provide Quick Service Restaurant sector, leisure facilities, bespoke restaurants,
+                                office refurbishments and high-end residential projects.</p>
+                                <p>During our many years in business we have established an extensive team of skilled craftsmen and trades covering…</p>
 
                                 <ul className="features-list">
-                                    <li>Safeguarding confidential customer data</li>
-                                    <li>Balancing cyber security and ease of data sharing</li>
-                                    <li>Detecting and responding to malware</li>
-                                    <li>Meeting compliance requirements</li>
-                                </ul>
+                                    <li>Signage and Graphics</li>
+                                    <li>Internal walls and glass partitioning</li>
+                                    <li>Suspended Ceiling</li>
+                                    <li>Firelined, acoustic ceilings</li>
+                                    <li>Drylining</li>
+                                    <li>Wall finishes</li>
+                                    <li>Wall cladding</li>
+                                    <li>Flooring</li>
+                                    <li>Bespoke joinery</li>
+                                    <li>Bespoke furniture</li>
+                                    <li>Decorations</li>
+                                    <li>Heating and Plumbing</li>
+                                    <li>Electrical and Lighting</li>
+                                    <li>HIK CCTV installations</li>
+                                    <li>HVAC installations</li>
 
-                                <Link href="/team">
-                                    <a className="default-btn">
-                                        Meet Team <i className="fas fa-chevron-right"></i>
-                                    </a>
-                                </Link>
+
+                                    
+                                </ul>
                             </div>
                         </div>
                     </div>

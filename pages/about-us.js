@@ -5,7 +5,6 @@ import AboutContent from '@/components/AboutUs/AboutContent';
 import FeaturesCard from '@/components/Common/FeaturesCard';
 import AdvisorySolutions from '@/components/AboutUs/AdvisorySolutions';
 import CallToActionStyleTwo from '@/components/Common/CallToActionStyleTwo';
-import Process from '@/components/AboutUs/Process';
 import FunFactsFour from '@/components/Common/FunFactsFour';
 import TeamStyleTwo from '@/components/Common/TeamStyleTwo';
 import TestimonialStyleThree from '@/components/Common/TestimonialStyleThree';
@@ -33,11 +32,11 @@ const AboutClassic = () => {
 
             <CallToActionStyleTwo />
 
-            <Process />
+      
 
-            <FunFactsFour />
+          
 
-            <TeamStyleTwo />
+          
 
             <TestimonialStyleThree />
 

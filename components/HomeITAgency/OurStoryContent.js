@@ -10,8 +10,8 @@ const OurStoryContent = () => {
                         <div className="col-lg-6 col-md-12">
                             <div className="it-agency-about-image">
                                 <div className="main-image">
-                                    <img src="/images/about/about-img6.jpg" alt="image" />
-                                    <img src="/images/about/about-img7.jpg" alt="image" />
+                                    <img src="https://res.cloudinary.com/dakpe0afe/image/upload/v1720581617/SignOne/xlrxmycrccllniwphi8f.png" alt="image" />
+                                    <img src="https://res.cloudinary.com/dakpe0afe/image/upload/v1720581617/SignOne/xsqpso9bz0slnx83tlqw.png" alt="image" />
                                 </div>
 
                                 <div className="shape18">
@@ -26,10 +26,12 @@ const OurStoryContent = () => {
                         <div className="col-lg-6 col-md-12">
                             <div className="it-agency-about-content">
                                 <span className="sub-title">OUR STORY</span>
-                                <h2>We Have Helped Many Different Companies</h2>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                                <p>Maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.</p>
-
+                                <h2>We believe first impressions count the most in business. With over 22 years experience in the industry. </h2>
+                                <p>We are at the forefront in Sign making and Shop fitting Service within Bradford region.</p>
+                                <p>At our UK head office in Bradford, West Yorkshire, we have an in house team of CAD designer, graphic designers.</p>
+                                <p>We have sign makers and fabricators, carpenters and cabinet makers,
+working alongside our installation team of shop fitters which include electricians,
+lighting technicians, plasters, plumbers, flooring, joiners and building contractors.</p>
                                 <Link href="/about-classic">
                                     <a className="default-btn it-agency-color">
                                         Learn More <i className="fas fa-chevron-right"></i>

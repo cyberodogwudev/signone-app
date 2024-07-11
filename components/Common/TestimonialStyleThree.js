@@ -37,7 +37,8 @@ const TestimonialStyleThree = () => {
                         > 
                             <div className="testimonials-item">
                                 <i className="icon flaticon-quotation"></i>
-                                <p>“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Qui ipsum suspendisse ultrices gravida. Risus com modo viverra maecenas accumsan lacus vel facilisis.”</p>
+                                <p>“We recently engaged SignOne Shopfitters for the complete renovation of our commercial office space, and we couldn't be happier with the results
+                                    .From the very beginning, their team demonstrated exceptional professionalism and creativity. They took the time to understand our vision and provided invaluable suggestions that truly enhanced the final design.”</p>
 
                                 <div className="info d-flex align-items-center justify-content-center">
                                     <img src="/images/user/user1.jpg" alt="image" />
@@ -50,7 +51,7 @@ const TestimonialStyleThree = () => {
         
                             <div className="testimonials-item">
                                 <i className="icon flaticon-quotation"></i>
-                                <p>“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Qui ipsum suspendisse ultrices gravida. Risus com modo viverra maecenas accumsan lacus vel facilisis.”</p>
+                                <p>“Working with SignOne Shopfitters for the fit-out of my new retail store was an absolute pleasure. From our initial consultation to the final handover, their team displayed a remarkable level of expertise and dedication”</p>
 
                                 <div className="info d-flex align-items-center justify-content-center">
                                     <img src="/images/user/user2.jpg" alt="image" />
