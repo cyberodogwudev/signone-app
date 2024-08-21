@@ -1,6 +1,24 @@
 {
-  "/_app": "pages/_app.js",
-  "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/gallery-2": "pages/gallery-2.js"
+  "/404": "pages/404.html",
+  "/about-simple": "pages/about-simple.html",
+  "/about-us": "pages/about-us.html",
+  "/api/contact": "pages/api/contact.js",
+  "/_error": "pages/_error.js",
+  "/coming-soon": "pages/coming-soon.html",
+  "/contact-us": "pages/contact-us.html",
+  "/contact": "pages/contact.html",
+  "/faq": "pages/faq.html",
+  "/index-it-agency": "pages/index-it-agency.html",
+  "/": "pages/index.html",
+  "/how-it-works": "pages/how-it-works.html",
+  "/gallery-2": "pages/gallery-2.html",
+  "/privacy-policy": "pages/privacy-policy.html",
+  "/services-details": "pages/services-details.html",
+  "/services": "pages/services.html",
+  "/sign-up": "pages/sign-up.html",
+  "/terms-conditions": "pages/terms-conditions.html",
+  "/_app": "pages/_app.js",
+  "/sign-in": "pages/sign-in.html",
+  "/services-2": "pages/services-2.html"
 }

@@ -32,11 +32,20 @@ const NavbarThree = () => {
                     <div className="noke-nav">
                         <div className="container">
                             <nav className="navbar navbar-expand-md navbar-light">
-                                <Link href="/index-it-agency">
+                                {/* <Link href="/index-it-agency">
                                     <a onClick={toggleNavbar} className="navbar-brand">
-                                        <img src="https://res.cloudinary.com/dakpe0afe/image/upload/v1720470665/SignOne/dciiexvsoosudsowyyki.png" alt="logo" />
+                                        <img src="https://res.cloudinary.com/dakpe0afe/image/upload/v1720470665/SignOne/dciiexvsoosudsowyyki.png" alt="logo"  width={300} height={100}/>
                                     </a>
+                                </Link> */}
+                                <div className="logo">
+                                <Link href="/">
+
+                                <picture>
+                                    <source srcSet="https://res.cloudinary.com/dakpe0afe/image/upload/v1724254892/SIGNONE-logo-1_rjz5qn.png" type="image/avif" width={200} height={100}  />
+                                    <img />
+                                    </picture>
                                 </Link>
+                            </div>
 
                                 <button 
                                     onClick={toggleNavbar} 

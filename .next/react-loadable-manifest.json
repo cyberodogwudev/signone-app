@@ -1,1 +1,44 @@
-{}
+{
+  "../components/AboutSimple/AboutContent.js -> react-modal-video": {
+    "id": 1239,
+    "files": [
+      "static/chunks/239.cd315efbf30686fa.js"
+    ]
+  },
+  "../components/Common/Partner.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.1644fe3b1f74e2ae.js"
+    ]
+  },
+  "../components/Common/PartnerStyleThree.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.1644fe3b1f74e2ae.js"
+    ]
+  },
+  "../components/Common/PartnerStyleTwo.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.1644fe3b1f74e2ae.js"
+    ]
+  },
+  "../components/Common/TestimonialStyleOne.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.1644fe3b1f74e2ae.js"
+    ]
+  },
+  "../components/Common/TestimonialStyleThree.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.1644fe3b1f74e2ae.js"
+    ]
+  },
+  "../components/HomeITAgency/MainBanner.js -> react-modal-video": {
+    "id": 1239,
+    "files": [
+      "static/chunks/239.cd315efbf30686fa.js"
+    ]
+  }
+}

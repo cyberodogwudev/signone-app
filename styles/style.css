@@ -759,14 +759,14 @@ Navbar Area CSS
   z-index: 999;
   position: fixed;
   background-color: var(--whiteColor) !important;
-  -webkit-box-shadow: 0 2px 28px 0 rgba(0, 0, 0, 0.09);
-          box-shadow: 0 2px 28px 0 rgba(0, 0, 0, 0.09);
+  -webkit-box-shadow: 0 2px 28px 0 rgba(0, 0, 0, 0.917);
+          box-shadow: 0 2px 28px 0 rgba(0, 0, 0, 0.822);
   -webkit-animation: 500ms ease-in-out 0s normal none 1 running fadeInDown;
           animation: 500ms ease-in-out 0s normal none 1 running fadeInDown;
 }
 
 .navbar-area.is-sticky.bg-dark {
-  background-color: #06080e !important;
+  background-color: #eaeaea89 !important;
   -webkit-box-shadow: 0 2px 28px 0 rgba(255, 255, 255, 0.05);
           box-shadow: 0 2px 28px 0 rgba(255, 255, 255, 0.05);
 }
@@ -947,9 +947,9 @@ Navbar Area CSS
 }
 
 .navbar-area.color-white.is-sticky {
-  background-color: #06080e !important;
+  background-color: #06080e68 !important;
   -webkit-box-shadow: 0 2px 28px 0 rgba(255, 255, 255, 0.05);
-          box-shadow: 0 2px 28px 0 rgba(255, 255, 255, 0.05);
+          box-shadow: 0 2px 28px 0 rgba(255, 255, 255, 0.514);
 }
 
 .noke-nav .container-fluid {

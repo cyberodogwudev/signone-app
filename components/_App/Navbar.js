@@ -34,12 +34,20 @@ const Navbar = () => {
                 <div className="noke-nav">
                     <div className="container-fluid">
                         <nav className="navbar navbar-expand-md navbar-light">
-                            <Link href="/">
+                            {/* <Link href="/">
                                 <a onClick={toggleNavbar} className="navbar-brand">
                                     <img src="https://res.cloudinary.com/dakpe0afe/image/upload/v1720470665/SignOne/dciiexvsoosudsowyyki.png" alt="logo" />
                                 </a>
-                            </Link>
+                            </Link> */}
+                            <div className="logo">
+        <Link href="/">
 
+          <picture>
+              <source srcSet="https://res.cloudinary.com/dakpe0afe/image/upload/v1722442068/Divine%20Mercy%20Healthcare/Logo/ffncdmnbdfalyftlxv8x.svg" type="image/avif" width={300} height={100}  />
+              <img />
+            </picture>
+        </Link>
+      </div>
                             <button 
                                 onClick={toggleNavbar} 
                                 className={classTwo}

@@ -25,14 +25,14 @@ const TopBar = () => {
                                     <i className="fas fa-phone-alt"></i> (+44) 7544 786 044
                                 </a>
 
-                                <div className="lang-switcher">
+                                {/* <div className="lang-switcher">
                                     <label><i className="fas fa-globe"></i></label>
                                     <select>
                                         <option>English</option>
                                         <option>Spanish</option>
                                         <option>French</option> 
                                     </select>
-                                </div>
+                                </div> */}
                             </div>
                         </div>
                     </div>
